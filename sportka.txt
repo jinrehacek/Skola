@@ -1,0 +1,5 @@
+10 000 000 iteraci
+Druha cena byla 19, treti cena byla 949.
+Pravdepodobnost druhe ceny byla 0.0019000000000000002 %, treti cena byla 0.0949 %
+
+100 000 000 iteraci - nemam cas
